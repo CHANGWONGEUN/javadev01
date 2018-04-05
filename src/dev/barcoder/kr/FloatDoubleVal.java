@@ -6,7 +6,7 @@ public class FloatDoubleVal {
 		// TODO Auto-generated method stub
 		// p.47  float, doubleÇü ½Ç½À. 
 		float aVar;
-		double bVar;
+		double bVar;  
 		
 		//aVal=10.2;
 		aVar = 20.1f;

@@ -6,7 +6,7 @@ public class HakJum {
 	public static void main(String[] args){
 		int JumSu ;
 		char HakJum;
-		JumSu=Integer.parseInt(JOptionPane.showInputDialog("점수 입력 : "));
+		JumSu=Integer.parseInt(JOptionPane.showInputDialog("점수 입력 : ")); 
 		
 		if (JumSu >=90){
 			HakJum = 'A';
